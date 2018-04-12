@@ -3,3 +3,7 @@ https://www.cnblogs.com/Henry-pan/p/7242543.html
 
 // mybatis二级缓存一级一级缓存
 http://www.cnblogs.com/fangjian0423/p/mybatis-cache.html#3935690
+
+
+// mybatis插件的实现原理
+http://www.cnblogs.com/fangjian0423/p/mybatis-interceptor.html
